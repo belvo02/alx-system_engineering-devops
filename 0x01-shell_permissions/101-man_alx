@@ -1,0 +1,18 @@
+
+.TH man 2 "09 Feb 2023" "22.52" "alx man page"
+.SH NAME
+.B alx
+- become a full-stack software engineer.
+.SH SYNOPSIS
+alx [STUDENTNAME]
+.SH DESCRIPTION
+alxSchool is a project-based alternative program next generation of certified software engineers.
+.SH OPTIONS
+.B alx
+does not take any options. However, you can supply studentname.
+.SH SEE ALSO
+.I peerlearning(2), projectbased(2), fullstack(2), Betty(1)
+.SH BUGS
+No known bugs.
+.SH AUTHOR
+Julien Barbier, and all other alx mentors
